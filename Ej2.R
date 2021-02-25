@@ -15,7 +15,7 @@
 # de datos (nyc.csv) que importaremos a R deberÃ¡ de estar en este directorio
 
 getwd()
-nyc <- read.csv("nyc.csv", header = TRUE)
+nyc <- read.csv("https://raw.githubusercontent.com/beduExpert/Programacion-con-R-Santander/master/Sesion-05/Ejemplo-02/nyc.csv", header = TRUE)
 summary(nyc)
 dim(nyc)
 
