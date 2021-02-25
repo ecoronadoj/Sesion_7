@@ -1,3 +1,5 @@
+# Cambios realizados en RStudio Cloud
+
 # Ejemplo 2. RegresiÃ³n Lineal MÃºltiple
 
 # Predecir el precio de cena (platillo). 
@@ -22,7 +24,7 @@ dim(nyc)
 # Observamos algunas filas y la dimensiÃ³n del data frame
 
 head(nyc, 2); tail(nyc, 2); dim(nyc)
-detach(production)
+
 
 attach(nyc)
 
