@@ -55,7 +55,8 @@ m2 <- update(m1, ~.-Service)
 summary(m2)
 
 ######
-
+install.packages("ggplot")
+library(ggplot)
 # AnÃ¡lisis de covarianza
 
 # Para investigar si el efecto de los predictores depende de la variable dummy 
