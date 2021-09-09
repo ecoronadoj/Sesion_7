@@ -150,3 +150,4 @@ abline(lsfit(m1$fitted.values, Price))
 
 # [S.J. Sheather, A Modern Approach to Regression with R, DOI: 10.1007/978-0-387-09608-7_2, Â© Springer Science + Business Media LLC 2009](https://gattonweb.uky.edu/sheather/book/index.php)
 
+# Add
