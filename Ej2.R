@@ -1,5 +1,5 @@
 # Cambios realizados en RStudio Cloud 
-#######
+################
 
 # Ejemplo 2. RegresiÃ³n Lineal MÃºltiple
 
