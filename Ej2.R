@@ -1,5 +1,5 @@
 
-################ Cambios hechos en RSTUDIO
+################ Cambios hechos en RSTUDIO #####
 
 # Ejemplo 2. Regresión Lineal Mútiple
 
