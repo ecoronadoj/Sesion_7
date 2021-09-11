@@ -1,7 +1,7 @@
-# Cambios realizados en RStudio Cloud 
-################ 
 
-# Ejemplo 2. RegresiÃ³n Lineal MÃºltiple
+################ Cambios hechos en RSTUDIO
+
+# Ejemplo 2. Regresión Lineal Mútiple
 
 # Predecir el precio de cena (platillo). 
 # Datos de encuestas de clientes de 168 restaurantes Italianos
